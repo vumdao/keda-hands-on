@@ -150,3 +150,21 @@
 ## 🚀 Conclusion <a name="Conclusion"></a>
 - Within the Scaledobject class, you can jump to definition to understand the meaning of each properties and also know which required/optional attributes.
 - We can create a custom construct and base on that to provision multiple KEDA scaledobjects with customize specs/meta such as min/max/desired replicas, triggers, trigger authentication, etc.
+
+---
+
+<h3 align="center">
+  <a href="https://dev.to/vumdao">:stars: Blog</a>
+  <span> · </span>
+  <a href="https://github.com/vumdao/keda-hands-on/">Github</a>
+  <span> · </span>
+  <a href="https://stackoverflow.com/users/11430272/vumdao">stackoverflow</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/in/vu-dao-9280ab43/">Linkedin</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/groups/12488649/">Group</a>
+  <span> · </span>
+  <a href="https://www.facebook.com/CloudOpz-104917804863956">Page</a>
+  <span> · </span>
+  <a href="https://twitter.com/VuDao81124667">Twitter :stars:</a>
+</h3>
