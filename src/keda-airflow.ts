@@ -64,7 +64,7 @@ export class KedaAirflowScaledObject extends Chart {
             },
             metadata: {
               userName: 'airflow',
-              passwordFromEnv: 'PG_PASSWORD',
+              //passwordFromEnv: 'PG_PASSWORD',
               host: 'airflow-postgresql.airflow.svc.cluster.local',
               port: '5432',
               dbName: 'airflow',
