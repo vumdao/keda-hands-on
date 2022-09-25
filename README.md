@@ -60,6 +60,10 @@
   ```
 
 ## 🚀 **Write code** <a name="Write-code"></a>
+- Overview of keda scaledObjects in this post
+
+  <img src=docs/images/flow.png width=900>
+
 - It's much more convinient to use visual code writing KEDA scaledobject in typescript language. We can read the document and find all references of construct, objects and properties of KEDA CRDs
 - This blog provides the usecase of creating scaledObject (SO) for Apache airflow worker component. It contains 3 triggers (Scalers) in the SO
   1. [Cron](https://keda.sh/docs/2.8/scalers/cron/) - Scale applications based on a cron schedule.
